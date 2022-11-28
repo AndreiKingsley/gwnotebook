@@ -1,2 +1,6 @@
 .idea
 notebooks.iml
+.gradle
+.ipynb_checkpoints
+*.png
+lets-plot-images/
